@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 By using this you can check which houses is avaliable for rent.
+This website has been created from scratch using HTML5, TAILWIND CSS, JAVASCRIPT, REACT, NODEJS among some.
+
 
 ## Available Scripts
 
